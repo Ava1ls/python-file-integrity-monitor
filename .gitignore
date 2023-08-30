@@ -1,2 +1,4 @@
-files
-baseline.txt
+*
+
+!fim.py
+!README.md
